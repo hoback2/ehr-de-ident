@@ -1,0 +1,4 @@
+sample_id,relative_path,source_type,page_count,content_class,scan_quality,handwriting_present,tables_present,diagrams_present,phi_density,difficulty_notes
+S001,samples/raw/example.pdf,native_pdf,1,discharge_summary,clean,no,no,no,high,
+S002,samples/raw/example_scan.pdf,scanned_pdf,2,lab_report,low_res_fax,no,yes,no,high,
+S003,samples/raw/example_handwritten.pdf,scanned_pdf,1,physician_note,poor,yes,no,no,medium,

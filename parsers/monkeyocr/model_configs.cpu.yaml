@@ -1,0 +1,12 @@
+device: cpu
+models_dir: /Users/martinvoigt/coding/ehr-de-identification/model_assets/monkeyocr
+weights:
+  PP-DocLayoutV2: Structure/PP-DocLayoutV2
+  layoutreader: Relation
+layout_config:
+  model: PP-DocLayoutV2
+  reader:
+    name: layoutreader
+chat_config:
+  backend: transformers
+  weight_path: Recognition

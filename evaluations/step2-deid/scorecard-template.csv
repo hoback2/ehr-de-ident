@@ -1,0 +1,3 @@
+tool,input_mode,phi_recall,phi_precision,image_redaction_quality,leakage_count,usability_score,customization_score,weighted_score,notes
+philter,text,,,,,,,,
+presidio_image_redactor,image+ocr,,,,,,,,

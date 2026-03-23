@@ -1,0 +1,6 @@
+tool,self_hosted,installs_cleanly,output_has_coordinates,ocr_text_score,reading_order_score,box_region_score,table_score,difficult_input_score,operational_fit_score,weighted_score,notes
+olmocr,yes,,,,,,,,,
+marker_surya,yes,,,,,,,,,
+monkeyocr,yes,,,,,,,,,
+paddleocr_pp_structure_v3,yes,,,,,,,,,
+mineru,yes,,,,,,,,,
